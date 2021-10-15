@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoblinkSetup", "PoblinkSetup\PoblinkSetup.csproj", "{8669ACA1-5EDB-4819-BB37-54383C398944}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8669ACA1-5EDB-4819-BB37-54383C398944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8669ACA1-5EDB-4819-BB37-54383C398944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8669ACA1-5EDB-4819-BB37-54383C398944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8669ACA1-5EDB-4819-BB37-54383C398944}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {608FFD76-719F-472B-AE34-5A8F7E95EAEC}
+	EndGlobalSection
+EndGlobal
