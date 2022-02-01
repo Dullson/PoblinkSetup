@@ -14,7 +14,7 @@ I have also created a userscript called [Poblink](https://www.github.com/dullson
 Right now, the poblink format is pretty limited, but hopefully there will be improvements soon.
 
 ## How to install?
-- You can either compile the project yourself or head over to the [releases page](https://www.github.com/dullson/poblinksetup/relases) and download the latest binary.
+- You can either compile the project yourself or head over to the [releases page](https://github.com/Dullson/PoblinkSetup/releases/latest) and download the latest binary.
  - Run the application with Administrator permissions (or else the registry modification would fail).
  - Select your Path of Building.exe path
  - Click the "Install Settings" button.
